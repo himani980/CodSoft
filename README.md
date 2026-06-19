@@ -1,24 +1,23 @@
-# Titanic Survival Prediction
+# CodSoft Data Science Internship
 
-## Objective
-Build a machine learning model to predict whether a passenger survived the Titanic disaster.
+## Task 1: Titanic Survival Prediction
+Built a Logistic Regression model to predict passenger survival using features such as age, gender, and passenger class.
 
-## Dataset
-The Titanic dataset contains passenger information such as age, gender, passenger class, fare, and survival status.
+Accuracy: 81%
 
-## Model Used
-Logistic Regression
+## Task 2: Movie Rating Prediction
+Built a Linear Regression model to predict movie ratings using movie-related features.
 
-## Features Used
-- Pclass
-- Sex
-- Age
+R2 Score: 0.0002
 
-## Accuracy
-81.01%
+## Task 3: Iris Flower Classification
+Built a Decision Tree Classifier to classify iris flowers into different species using sepal and petal measurements.
 
-## Result
-The model successfully predicted passenger survival with an accuracy of 81.01%.
+Accuracy: 100%
 
-## Author
-Himani Singhal
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+- GitHub
